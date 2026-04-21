@@ -1,3 +1,6 @@
+
+# 1. Introduction
+
 We present an effective scalar framework in which the observed low-acceleration anomalies of galaxies emerge from gravitational coherence rather than from particle dark matter halos. The theory combines a nonlinear kinetic sector with environmental screening, allowing local recovery of General Relativity while generating modified dynamics in diffuse galactic environments.
 
 A characteristic acceleration scale naturally appears as
@@ -15,8 +18,6 @@ v⁴ = G M_bar g_crit.
 At high densities, thin-shell screening suppresses scalar forces and preserves Solar-System bounds. The framework therefore interpolates between screened local gravity and emergent large-scale galactic dynamics within a single effective description.
 
 We discuss implications for galaxy rotation curves, gravitational lensing, cluster-scale offsets, and redshift evolution of the baryonic Tully-Fisher relation. The model provides a falsifiable alternative to particle dark matter scenarios based on emergent infrared gravitational physics.
-
-# 1. Introduction
 
 The dynamical structure of disk galaxies continues to present one of the central open problems of modern astrophysics. Across a wide range of masses, morphologies, and surface brightnesses, observed rotation curves display systematic departures from the expectations of Newtonian gravity sourced solely by the visible baryonic component. In particular, many galaxies exhibit an extended velocity plateau at large radii, where standard Keplerian decline would predict \(V \propto r^{-1/2}\).
 
